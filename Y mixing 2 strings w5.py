@@ -15,3 +15,10 @@ print(len(s2)/2)
 print(len(s2)/2+1)
 print(len(s2)/2-1)
 mixString(s1, s2)
+def age_cal(name,age)
+  birthyear= 2020-age
+  print ( " name is born in year ")
+
+
+age_cal(avyu,30)
+age_cal(arjun 10)
