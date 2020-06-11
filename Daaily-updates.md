@@ -20,6 +20,6 @@ Till today I learnt ::
  
  
  progress made on date: 11 june 20
- 1)
+ 1)i did a work ok list tuples sets and dictionary
  2)
         
