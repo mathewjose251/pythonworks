@@ -26,4 +26,15 @@ Till today I learnt ::
  1) i did works on number count of fingers.
  2) and logical thinking about the the program(theory class) 
 
+progress made on: 13 june 2020
+1)i a logical thinking and calculatons on measurements of a room and and how 
+ much cuboid sacks can fit in it and how many sacks can fit 
+ in a truck
+2) and did a program on it wch was a fail.
+ redoing the program after basic programs.
+ 
+ progress made on :14 june 2020
+ 1) did program on digits to word conversion 
+ 2) and watched tutorial videos of python related to
+  data types of int (integers) and digits to word conversion.
         
