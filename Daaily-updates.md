@@ -37,4 +37,13 @@ progress made on: 13 june 2020
  1) did program on digits to word conversion 
  2) and watched tutorial videos of python related to
   data types of int (integers) and digits to word conversion.
-        
+   
+   progress made on 15 june 2020
+  1) did next program on digits to word conversion
+   
+   progress made on 16 jun 2020
+   1) i did my mistake i did a mistake,i didn't
+   save my file and i got scoldings
+   2) i did research on file handeling and wrote 
+    comments on it. to be cont... 
+     
