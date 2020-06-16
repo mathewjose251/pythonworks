@@ -40,4 +40,13 @@ progress made on: 13 june 2020
   
   progress made on 15 june 2020
   1) did next program on digits to word conversion
-       
+  
+ progress made on june 16 2020
+ 1)i did my biggest mistake in my python tutorial
+  i forgot to save my file in on file handeling 
+  and i also got scolding from it.
+  
+  2) today i watched videos on file handeling 
+     and i tried to understand the topic but it was 
+     little advanced for me,i did write some 
+     comments on it.        
