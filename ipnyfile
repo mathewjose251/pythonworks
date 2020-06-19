@@ -1,0 +1,15 @@
+import numpy as np
+array_of2=np.zeros((2,2))
+print (array_of2)
+array_of1=np.ones(10)
+print (array_of1)
+array_of5=np.zeros(10)+5
+print (array_of5)
+array_from10to50=np.arange(10,51)
+print(array_from10to50)
+array_from10to50_even=np.arange(10,51,2)
+print (array_from10to50_even)
+array4_4=np.arange(16)
+print (array4_4)
+identity_matrix=np.eye(4,4)
+print (identity_matrix)
