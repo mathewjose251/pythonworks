@@ -68,4 +68,9 @@ progress made on: 13 june 2020
    this time it worked out. And i wrote notes on it.
    
    progress made on 23 june 2020
-     
+   1) i did my program related averages/commonly known as 
+     mean acording to maths.
+   2) I got scoldings from my uncle and dad for keeping
+    my work pending and not updating in github.
+   progress made on 24 june 2020 
+   1)   
