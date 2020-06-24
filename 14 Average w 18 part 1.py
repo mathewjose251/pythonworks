@@ -1,3 +1,7 @@
+#in this program i have done a program using input
+#and i have used a lot of variables
+#sum is an actual variable (NOT A FUNCTION)
+
 #print("Enter 'x' for exit.")
 print("Enter any 3 numbers to find its average: ")
 

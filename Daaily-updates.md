@@ -72,5 +72,10 @@ progress made on: 13 june 2020
      mean acording to maths.
    2) I got scoldings from my uncle and dad for keeping
     my work pending and not updating in github.
+  
    progress made on 24 june 2020 
-   1)   
+   1) today i wrote my notes on modules , lists and
+    and dictionary other than that i wrote more notes in my program.
+    
+   progress made on 25th june 
+   1)       
