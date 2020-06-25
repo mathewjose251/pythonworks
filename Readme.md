@@ -1,4 +1,7 @@
-This FIle is a TODO list and progress for Python classes
+This File is a TODO list and progress for Python classes
+26 June:Introduction to UI programming
+25 June::<NO HW : Due to backlog>
+24 June:<NO HW : Due to backlog>
 23 June 2020
 ----------
 No daily updates found  for days:
